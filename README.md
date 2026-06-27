@@ -26,7 +26,7 @@ This project demonstrates the use of **Power Query** in Excel to perform ETL (Ex
 ## How to Use
 1. Clone this repository.
 2. Open the `.xlsx` file.
-3. If prompted, enable external data connections.
+3. If prompted, enable external data connections.....
 4. Use the slicers on the right side of the dashboard to filter the data by your preferred criteria.
 
 ---
